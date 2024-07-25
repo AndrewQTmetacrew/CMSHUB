@@ -1,0 +1,16 @@
+Daily Report 07/24:
+Chub:
+  -(Task) Check Article Traffic detail & Activity History detail (Due date: 07/24, Done)
+  -(Bug) Confirm testing pop-up delete sub-template (CMSHUB-875) (Due date: 07/24, Done)
+  -(Bug) Confirm testing display fields in the Footer (CMSHUB-882) (Due date: 07/24, Done)
+  -(Bug) Confirm testing the latest list is not interactive (template B) (CMSHUB-976) (Due date: 07/24, Done)
+Chub: https://docs.google.com/spreadsheets/d/1AaR3qgruo__RNyygKWFYuby1ZxUngZny2c12cYjUojc/edit#gid=51843906
+Link to Jira issue: https://metacrewvn.atlassian.net/browse/CMSHUB-958
+
+
+(Task Type) Task Name (Due date: MM/DD, Status)
+Task Type: Task/ Bug
+Status: Done/ In-Progress
+
+
+  -(Task) Check UI,feature & create Jira task to request update (Due date: 07/05, Done)
