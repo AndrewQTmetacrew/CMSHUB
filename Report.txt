@@ -1,4 +1,4 @@
-Daily Report 07/24:
+Daily Report 07/25:
 Chub:
   -(Task) Create test case for Dashboard (Due date: 07/26, in-progress)
   -(Bug) Confirm testing the media terms pop-up does not display completely (CMSHUB-975) (Due date: 07/25, Done)
