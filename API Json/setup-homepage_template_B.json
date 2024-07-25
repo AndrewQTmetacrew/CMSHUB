@@ -1,0 +1,88 @@
+{
+  "name": "Home page",
+  "template_id": 2,
+  "sections": [
+    {
+      "order": 1,
+      "section_code": "headline",
+      "settings": {
+        "section_type": "headline_vertical",
+        "mode": "manual",
+        "article_ids": [
+          320
+        ],
+        "refresh_rule": {
+          "mode": "manual",
+          "times": [
+            "12:30",
+            "11:00",
+            "13:00"
+          ]
+        }
+      }
+    },
+    {
+      "order": 2,
+      "section_code": "popular",
+      "settings": {
+        "mode": "manual",
+        "article_ids": [
+          320,
+          314,
+          399,
+          299,
+          300,
+          301,
+          302,
+          303,
+          304,
+          305
+        ],
+        "refresh_rule": {
+          "mode": "auto",
+          "times": []
+        }
+      }
+    },
+    {
+      "order": 3,
+      "section_code": "important",
+      "settings": {
+        "section_type": "important_vertical",
+        "mode": "manual",
+        "article_ids": [
+          314,
+          392
+        ],
+        "refresh_rule": {
+          "mode": "manual",
+          "times": [
+            "12:30",
+            "11:00",
+            "13:00",
+            "01:00"
+          ]
+        }
+      }
+    },
+    {
+      "order": 4,
+      "section_code": "latest",
+      "settings": {
+        "mode": "manual",
+        "article_ids": [
+          266,
+          268,
+          408,
+          286,
+          292,
+          294
+        ],
+        "refresh_rule": {
+          "mode": "auto",
+          "times": []
+        }
+      }
+    }
+  ]
+}

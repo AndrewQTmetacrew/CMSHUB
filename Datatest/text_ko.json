@@ -1,0 +1,17 @@
+{
+  "email": "andrew.nguyen@outlook.com",
+  "password": "Th@ai123",
+  "title_homepage_management": "홈페이지 관리",
+  "title_btn_template": "레이아웃 설정",
+  "title_btn_section": "섹션 설정",
+  "title_btn_footer": "푸터 설정",
+  "title_btn_review": "새 창으로 미리보기",
+  "title_btn_save": "신규 문의",
+  "title_template_popup": "레이아웃 설정",
+  "title_select_template_popup_selected": "적용됨",
+  "title_select_template_popup_not_selected": "적용하기",
+  "title_btn_sign_in_logo": "로그인\nLogo",
+  "title_main_section": "섹션1\n섹션2\n섹션3",
+  "popup_confirm_change_template": "안내\n레이아웃을 변경하시겠습니까?\n취소\n확인"
+}
+
