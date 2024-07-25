@@ -1,9 +1,9 @@
 Daily Report 07/24:
 Chub:
+  -(Task) Create test case for Dashboard (Due date: 07/26, in-progress)
   -(Bug) Confirm testing the media terms pop-up does not display completely (CMSHUB-975) (Due date: 07/25, Done)
   -(Bug) Confirm testing the color of the title (CMSHUB-898) (Due date: 07/25, Done)
   -(Bug) Confirm testing open in new tab in homepage (CMSHUB-973) (Due date: 07/25, Done)
-
 Chub: https://docs.google.com/spreadsheets/d/1AaR3qgruo__RNyygKWFYuby1ZxUngZny2c12cYjUojc/edit#gid=51843906
 Link to Jira issue: https://metacrewvn.atlassian.net/browse/CMSHUB-958
 
