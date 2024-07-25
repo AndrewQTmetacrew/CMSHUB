@@ -1,9 +1,9 @@
 Daily Report 07/24:
 Chub:
-  -(Task) Check Article Traffic detail & Activity History detail (Due date: 07/24, Done)
-  -(Bug) Confirm testing pop-up delete sub-template (CMSHUB-875) (Due date: 07/24, Done)
-  -(Bug) Confirm testing display fields in the Footer (CMSHUB-882) (Due date: 07/24, Done)
-  -(Bug) Confirm testing the latest list is not interactive (template B) (CMSHUB-976) (Due date: 07/24, Done)
+  -(Bug) Confirm testing the media terms pop-up does not display completely (CMSHUB-975) (Due date: 07/25, Done)
+  -(Bug) Confirm testing the color of the title (CMSHUB-898) (Due date: 07/25, Done)
+  -(Bug) Confirm testing open in new tab in homepage (CMSHUB-973) (Due date: 07/25, Done)
+
 Chub: https://docs.google.com/spreadsheets/d/1AaR3qgruo__RNyygKWFYuby1ZxUngZny2c12cYjUojc/edit#gid=51843906
 Link to Jira issue: https://metacrewvn.atlassian.net/browse/CMSHUB-958
 
