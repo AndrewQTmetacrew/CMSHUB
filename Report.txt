@@ -1,9 +1,9 @@
-Daily Report 07/25:
+Daily Report 07/26:
 Chub:
-  -(Task) Create test case for Dashboard (Due date: 07/26, in-progress)
-  -(Bug) Confirm testing the media terms pop-up does not display completely (CMSHUB-975) (Due date: 07/25, Done)
-  -(Bug) Confirm testing the color of the title (CMSHUB-898) (Due date: 07/25, Done)
-  -(Bug) Confirm testing open in new tab in homepage (CMSHUB-973) (Due date: 07/25, Done)
+  -(Task) Create test case for Dashboard (Due date: 07/26, Done)
+  -(Task) Double-check the features, fixed bugs after deployed to Production (Due date: 07/26, Done)
+  -(Bug) Confirm testing improve terms and conditions (CMSHUB-974) (Due date: 07/26, Done)
+  -(Bug) Confirm testing popular list at Section page (CMSHUB-888) (Due date: 07/26, Done)
 Chub: https://docs.google.com/spreadsheets/d/1AaR3qgruo__RNyygKWFYuby1ZxUngZny2c12cYjUojc/edit#gid=51843906
 Link to Jira issue: https://metacrewvn.atlassian.net/browse/CMSHUB-958
 
@@ -14,3 +14,11 @@ Status: Done/ In-Progress
 
 
   -(Task) Check UI,feature & create Jira task to request update (Due date: 07/05, Done)
+
+[PROD] [CMSHUB-Web-Mobile] [Release notes]:
+1- Improve terms and conditions (CMSHUB-974)
+2- Popular list at Section page (CMSHUB-888)
+3- The latest list is not interactive (template B) (CMSHUB-976)
+4- Open in new tab in homepage (CMSHUB-973)
+5- The color of the title (CMSHUB-898)
+cc @Marcus (CPO) và @Hannah (PM)
