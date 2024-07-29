@@ -22,3 +22,25 @@ Status: Done/ In-Progress
 4- Open in new tab in homepage (CMSHUB-973)
 5- The color of the title (CMSHUB-898)
 cc @Marcus (CPO) và @Hannah (PM)
+
+- Console
+1- Change template (Passed)
+2- Section setting (Passed)
+3- Footer setting (Passed)
+4- Logo setting (Passed)
+5- Term and condition (Passed)
+6- Page management (Passed)
+7- Published Article list (Passed)
+8- Popup setting (CMSHUB-1041)
+9- Customize the article display modes (CMSHUB-775)(CMSHUB-879)(CMSHUB-1039)
+- Media
+1- Display the article according to the settings (Passed)
+2- Interact with the article (Passed)
+3- Section page (CMSHUB-1045)
+4- Action in the Footer (Term and condition, console page, landing page) (Passed)
+- Dashboard (Dev chưa sửa các bug ở round 1)
+- Comment management
+1- Permission (Passed)
+2- General comments (Passed)
+3- Reported comments (Passed)
+4- Reply details popup (Passed)
