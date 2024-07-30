@@ -1,12 +1,9 @@
-Daily Report 07/26:
+Daily Report 07/30:
 Chub:
-  -(Task) Create test case for Dashboard (Due date: 07/26, Done)
-  -(Task) Double-check the features, fixed bugs after deployed to Production (Due date: 07/26, Done)
-  -(Bug) Confirm testing improve terms and conditions (CMSHUB-974) (Due date: 07/26, Done)
-  -(Bug) Confirm testing popular list at Section page (CMSHUB-888) (Due date: 07/26, Done)
+  -(Task) Read the document, write test cases for Ads revenue (Due date: 07/31, in-progress)
+  -(Bug) Confirm testing height of article thumbnails on the mobile screen (CMSHUB-1002) (Due date: 07/30, Done)
 Chub: https://docs.google.com/spreadsheets/d/1AaR3qgruo__RNyygKWFYuby1ZxUngZny2c12cYjUojc/edit#gid=51843906
-Link to Jira issue: https://metacrewvn.atlassian.net/browse/CMSHUB-958
-
+Epic Dashboard: https://metacrewvn.atlassian.net/browse/CMSHUB-958
 
 (Task Type) Task Name (Due date: MM/DD, Status)
 Task Type: Task/ Bug
@@ -15,32 +12,7 @@ Status: Done/ In-Progress
 
   -(Task) Check UI,feature & create Jira task to request update (Due date: 07/05, Done)
 
-[PROD] [CMSHUB-Web-Mobile] [Release notes]:
-1- Improve terms and conditions (CMSHUB-974)
-2- Popular list at Section page (CMSHUB-888)
-3- The latest list is not interactive (template B) (CMSHUB-976)
-4- Open in new tab in homepage (CMSHUB-973)
-5- The color of the title (CMSHUB-898)
+[STAG] [CMSHUB-Web-Mobile] [Release notes]:
+1- Height of article thumbnails on the mobile screen (CMSHUB-1002)
+2-
 cc @Marcus (CPO) và @Hannah (PM)
-
-- Console
-1- Change template (Passed)
-2- Section setting (Passed)
-3- Footer setting (Passed)
-4- Logo setting (Passed)
-5- Term and condition (Passed)
-6- Page management (Passed)
-7- Published Article list (Passed)
-8- Popup setting (CMSHUB-1041)
-9- Customize the article display modes (CMSHUB-775)(CMSHUB-879)(CMSHUB-1039)
-- Media
-1- Display the article according to the settings (Passed)
-2- Interact with the article (Passed)
-3- Section page (CMSHUB-1045)
-4- Action in the Footer (Term and condition, console page, landing page) (Passed)
-- Dashboard (Dev chưa sửa các bug ở round 1)
-- Comment management
-1- Permission (Passed)
-2- General comments (Passed)
-3- Reported comments (Passed)
-4- Reply details popup (Passed)
