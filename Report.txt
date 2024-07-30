@@ -2,6 +2,7 @@ Daily Report 07/30:
 Chub:
   -(Task) Read the document, write test cases for Ads revenue (Due date: 07/31, in-progress)
   -(Bug) Confirm testing height of article thumbnails on the mobile screen (CMSHUB-1002) (Due date: 07/30, Done)
+  -(Bug) Confirm testing section page popular list (CMSHUB-1045) (Due date: 07/30, Done)
 Chub: https://docs.google.com/spreadsheets/d/1AaR3qgruo__RNyygKWFYuby1ZxUngZny2c12cYjUojc/edit#gid=51843906
 Epic Dashboard: https://metacrewvn.atlassian.net/browse/CMSHUB-958
 
@@ -14,5 +15,5 @@ Status: Done/ In-Progress
 
 [STAG] [CMSHUB-Web-Mobile] [Release notes]:
 1- Height of article thumbnails on the mobile screen (CMSHUB-1002)
-2-
+2- Section page popular list (CMSHUB-1045)
 cc @Marcus (CPO) và @Hannah (PM)
