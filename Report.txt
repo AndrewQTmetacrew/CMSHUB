@@ -1,10 +1,11 @@
-Daily Report 07/31:
+Daily Report 08/01:
 Chub:
-  -(Task) Read the document, write test cases for Ads Revenue (Due date: 08/01, in-progress)
-  -(Bug) Confirm testing navigation on click (CMSHUB-992) (Due date: 07/31, Done)
-  -(Bug) Confirm testing statistic frame (CMSHUB-959) (Due date: 07/31, Done)
-  -(Bug) Confirm testing SEO frame (CMSHUB-960) (Due date: 07/31, Done)
-  -(Task) Check Fold viewpoint (CMSHUB-1129) (Due date: 07/31, Done)
+  -(Task) Read the document, write test cases for Ads Revenue (Due date: 08/02, in-progress)
+  -(Bug) Confirm testing article published time (CMSHUB-1103) (Due date: 08/01, Done)
+  -(Bug) Confirm testing Popular list layout (CMSHUB-1104) (Due date: 08/01, Done)
+  -(Bug) Confirm testing display the main section of the article in Template C (CMSHUB-1039) (Due date: 08/01, Done)
+  -(Bug) Confirm testing important list of template C with a short title (CMSHUB-1040) (Due date: 08/01, Done)
+  -(Bug) Confirm testing Fold viewpoint (CMSHUB-1129) (Due date: 08/01, Done)
 Chub: https://docs.google.com/spreadsheets/d/1AaR3qgruo__RNyygKWFYuby1ZxUngZny2c12cYjUojc/edit#gid=51843906
 Epic Dashboard: https://metacrewvn.atlassian.net/browse/CMSHUB-958
 
@@ -18,6 +19,9 @@ Status: Done/ In-Progress
   -(Bug) Confirm testing reporter activities nodata (CMSHUB-966) (Due date: 07/31, Done)
 
 [STAG] [CMSHUB-Web-Mobile] [Release notes]:
-1- Height of article thumbnails on the mobile screen (CMSHUB-1002)
-2- Section page popular list (CMSHUB-1045)
+1- Article published time (CMSHUB-1103)
+2- Popular list layout (CMSHUB-1104)
+3- Important list of template C with a short title (CMSHUB-1104)
+4- Display the main section of the article in Template C (CMSHUB-1039)
+5- Fold viewpoint (CMSHUB-1129)
 cc @Marcus (CPO) và @Hannah (PM)
