@@ -1,11 +1,9 @@
-Daily Report 08/01:
+Daily Report 08/02:
 Chub:
-  -(Task) Read the document, write test cases for Ads Revenue (Due date: 08/02, in-progress)
-  -(Bug) Confirm testing article published time (CMSHUB-1103) (Due date: 08/01, Done)
-  -(Bug) Confirm testing Popular list layout (CMSHUB-1104) (Due date: 08/01, Done)
-  -(Bug) Confirm testing display the main section of the article in Template C (CMSHUB-1039) (Due date: 08/01, Done)
-  -(Bug) Confirm testing important list of template C with a short title (CMSHUB-1040) (Due date: 08/01, Done)
-  -(Bug) Confirm testing Fold viewpoint (CMSHUB-1129) (Due date: 08/01, Done)
+  -(Task) Double-check the features that have been released on PROD (Due date: 08/02, Done)
+  -(Task) Verify UI media homepage (Web+mobile) (CMSHUB-1169, 1174, 1177, 1178) (Due date: 08/02, Done)
+  -(Task) Confirm testing category name of the article (CMSHUB-1167) (Due date: 08/02, Done)
+  -(Bug) Confirm testing click navigation in the title (Reporter) (CMSHUB-1160) (Due date: 08/02, Done)
 Chub: https://docs.google.com/spreadsheets/d/1AaR3qgruo__RNyygKWFYuby1ZxUngZny2c12cYjUojc/edit#gid=51843906
 Epic Dashboard: https://metacrewvn.atlassian.net/browse/CMSHUB-958
 
@@ -13,12 +11,11 @@ Epic Dashboard: https://metacrewvn.atlassian.net/browse/CMSHUB-958
 Task Type: Task/ Bug
 Status: Done/ In-Progress
 
-
+  -(Task) Read the document, write test cases for Ads Revenue (Due date: 08/02, in-progress)
   -(Task) Check UI,feature & create Jira task to request update (Due date: 07/05, Done)
-  -(Bug) Confirm testing get article of reporter (CMSHUB-990) (Due date: 07/31, Done)
-  -(Bug) Confirm testing reporter activities nodata (CMSHUB-966) (Due date: 07/31, Done)
 
-[STAG] [CMSHUB-Web-Mobile] [Release notes]:
+
+[PROD] [CMSHUB-Web-Mobile] [Release notes]:
 1- Article published time (CMSHUB-1103)
 2- Popular list layout (CMSHUB-1104)
 3- Important list of template C with a short title (CMSHUB-1104)
