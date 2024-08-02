@@ -24,4 +24,5 @@ Status: Done/ In-Progress
 3- Important list of template C with a short title (CMSHUB-1104)
 4- Display the main section of the article in Template C (CMSHUB-1039)
 5- Fold viewpoint (CMSHUB-1129)
+6- Dashboard
 cc @Marcus (CPO) và @Hannah (PM)

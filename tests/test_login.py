@@ -1,6 +1,7 @@
 import time
 
 import pytest
+from selenium.webdriver import Keys
 from selenium.webdriver.common.by import By
 
 
@@ -25,3 +26,20 @@ class TestLogin:
         assert bth_menu.text == get_text["title_homepage_management"], "Homepage management title not correct"
         bth_menu.click()
         time.sleep(2)
+
+    # def test_login_google(self, driver, setup_env, get_text):
+    #     original_window = driver.current_window_handle
+    #     # Action elements
+    #     btn_google_login = driver.find_element(By.XPATH, "//button[@type='button']")
+    #     btn_google_login.click()
+    #     for window_handle in driver.window_handles:
+    #         if window_handle != original_window:
+    #             driver.switch_to.window(window_handle)
+    #             break
+    #     # Nhập email
+    #     email_input = driver.find_element(By.ID, 'identifierId')
+    #     email_input.send_keys('andrew.nguyen@metacrew.vn')
+    #     email_input.send_keys(Keys.ENTER)
+    #
+    #     password_input = driver.find_element(By.NAME, 'Passwd')
+    #     password_input.send_keys('123')
