@@ -5,7 +5,6 @@ Chub:
   -(Task) Confirm testing category name of the article (CMSHUB-1167) (Due date: 08/02, Done)
   -(Bug) Confirm testing click navigation in the title (Reporter) (CMSHUB-1160) (Due date: 08/02, Done)
 Chub: https://docs.google.com/spreadsheets/d/1AaR3qgruo__RNyygKWFYuby1ZxUngZny2c12cYjUojc/edit#gid=51843906
-Epic Dashboard: https://metacrewvn.atlassian.net/browse/CMSHUB-958
 
 (Task Type) Task Name (Due date: MM/DD, Status)
 Task Type: Task/ Bug
