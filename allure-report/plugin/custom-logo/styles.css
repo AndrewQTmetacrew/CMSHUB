@@ -1,0 +1,2 @@
+.side-nav__brand {   background: url('logo.png') no-repeat left center !important;   margin-left: 9px;   height: 40px;   Background-size: contain !important;} 
+.side-nav__brand span{   display: none } 
