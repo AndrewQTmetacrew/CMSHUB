@@ -1,9 +1,8 @@
-Daily Report 08/02:
+Daily Report 08/06:
 Chub:
-  -(Task) Double-check the features that have been released on PROD (Due date: 08/02, Done)
-  -(Task) Verify UI media homepage (Web+mobile) (CMSHUB-1169, 1174, 1177, 1178) (Due date: 08/02, Done)
-  -(Task) Confirm testing category name of the article (CMSHUB-1167) (Due date: 08/02, Done)
-  -(Bug) Confirm testing click navigation in the title (Reporter) (CMSHUB-1160) (Due date: 08/02, Done)
+  -(Task) Confirm testing UI media homepage template A (web+mobile) (CMSHUB-1169) (due date: 08/06, Done)
+  -(Task) Confirm testing UI media homepage template B (web+mobile) (CMSHUB-1174) (due date: 08/06, Done)
+  -(Task) Confirm testing UI media homepage template c (web+mobile) (CMSHUB-1177) (due date: 08/06, Done)
 Chub: https://docs.google.com/spreadsheets/d/1AaR3qgruo__RNyygKWFYuby1ZxUngZny2c12cYjUojc/edit#gid=51843906
 
 (Task Type) Task Name (Due date: MM/DD, Status)

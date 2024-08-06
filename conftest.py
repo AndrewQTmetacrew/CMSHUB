@@ -34,6 +34,10 @@ def driver(setup_env):
     # Option browser
     options = webdriver.EdgeOptions()
     options.add_argument("--start-maximized")
+    # mobile_emulation = {
+    #     "deviceName": "Galaxy Z Fold 5",
+    # }
+    # options.add_experimental_option("mobileEmulation", mobile_emulation)
     options.add_experimental_option("detach", True)  # Disable closing browser
     # Open browser
     driver = webdriver.Edge(options=options)
