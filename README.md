@@ -1,2 +1,0 @@
-# CMSHUB
-Automation testing
