@@ -1,23 +1,12 @@
-Daily Report 08/06:
+Daily Report 08/07:
 Chub:
-  -(Task) Confirm testing UI media homepage template A (web+mobile) (CMSHUB-1169) (due date: 08/06, Done)
-  -(Task) Confirm testing UI media homepage template B (web+mobile) (CMSHUB-1174) (due date: 08/06, Done)
-  -(Task) Confirm testing UI media homepage template c (web+mobile) (CMSHUB-1177) (due date: 08/06, Done)
+  -(Bug) Confirm testing UI media homepage template A (web+mobile) (CMSHUB-1169) (due date: 08/07, Done)
+
+  -(Task) Read the document, write test cases for Ads Revenue (Due date: 08/07, Done)
 Chub: https://docs.google.com/spreadsheets/d/1AaR3qgruo__RNyygKWFYuby1ZxUngZny2c12cYjUojc/edit#gid=51843906
 
 (Task Type) Task Name (Due date: MM/DD, Status)
 Task Type: Task/ Bug
 Status: Done/ In-Progress
 
-  -(Task) Read the document, write test cases for Ads Revenue (Due date: 08/02, in-progress)
   -(Task) Check UI,feature & create Jira task to request update (Due date: 07/05, Done)
-
-
-[PROD] [CMSHUB-Web-Mobile] [Release notes]:
-1- Article published time (CMSHUB-1103)
-2- Popular list layout (CMSHUB-1104)
-3- Important list of template C with a short title (CMSHUB-1104)
-4- Display the main section of the article in Template C (CMSHUB-1039)
-5- Fold viewpoint (CMSHUB-1129)
-6- Dashboard
-cc @Marcus (CPO) và @Hannah (PM)
